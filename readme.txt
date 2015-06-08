@@ -1,0 +1,14 @@
+Mostafa Alsari
+mals426
+5571080
+
+
+
+This is an android application which shows the UoA compsci page on an android device. To run through an emulator it requires all the necessary Android SDK's.
+
+It has been coded to run on older versions of android.
+
+No additional libraries have been used.
+
+
+In the root folder is also an APK if you wish to run through an actual android device.
